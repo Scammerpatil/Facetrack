@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+/python/StudentImages
+/python/encodings.pkl
+
 # production
 /build
 
